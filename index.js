@@ -1,11 +1,11 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyC_xRuqpfZiHH5-bxJsFlV5FxOOK3CsYD4",
-    authDomain: "check-460bc.firebaseapp.com",
-    projectId: "check-460bc",
-    storageBucket: "check-460bc.appspot.com",
-    messagingSenderId: "603820861231",
-    appId: "1:603820861231:web:dfcd88e4957d2864d823da"
-  };
+  apiKey: "AIzaSyC_xRuqpfZiHH5-bxJsFlV5FxOOK3CsYD4",
+  authDomain: "check-460bc.firebaseapp.com",
+  projectId: "check-460bc",
+  storageBucket: "check-460bc.appspot.com",
+  messagingSenderId: "603820861231",
+  appId: "1:603820861231:web:dfcd88e4957d2864d823da"
+};
 
 firebase.initializeApp(firebaseConfig);
 
